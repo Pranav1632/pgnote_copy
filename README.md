@@ -11,7 +11,7 @@ A secure, minimal personal note-pasting app where your authentication is a *meth
 
 ## What is pgnote?
 
-pgnote is a passwordless personal notes app built for people who want private, fast, distraction-free writing —  without trusting any platform with their credentials.
+pgnote is a passwordless personal notes app built for people who want private, fast, distraction-free writing — without trusting any platform with their credentials.
 
 Instead of a password, you define an **algorithm** — a personal transformation rule applied to a random key. Every login, the server challenges you with the *result* of your algo. You mentally reverse it and type the original key. No password is ever stored. Not even hashed.
 
